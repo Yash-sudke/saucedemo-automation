@@ -58,13 +58,13 @@ Install my-project with npm
 ## Project Structure
 
 Saucedemo_Automation/
-│── src/main/java/com/qa/base        # Base classes (WebDriver setup, properties)
-│── src/main/java/com/qa/pages       # Page Object Model (Login, Home, Cart, Checkout)
-│── src/test/java/com/qa/test        # Test Classes
-│── src/test/resources/testdata      # Test Data (Excel/CSV/JSON)
-│── reports/                         # Extent Reports
-│── pom.xml                          # Maven dependencies
-│── README.md                        # Project Documentation
+│── src/main/java/com/qa/base        
+│── src/main/java/com/qa/pages      
+│── src/test/java/com/qa/test        
+│── src/test/resources/testdata     
+│── reports/                         
+│── pom.xml                          
+│── README.md                       
 
 
 ## Environment Variables
